@@ -1,0 +1,5 @@
+def is_valid_pin_codes(pin_codes):
+    a = str(set(pin_codes))
+    
+
+is_valid_pin_codes(['1101', '9034', '0011']):
